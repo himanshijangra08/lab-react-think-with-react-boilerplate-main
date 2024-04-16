@@ -2,8 +2,7 @@ class ReactContainer extends React.Component {
     render() {
         return (
             <div>
-                Hello! Welcome to Kalvium<br></br>
-                lets rock and roll this is a babel.
+                Hello Kalvium
             </div>
         );
     }
